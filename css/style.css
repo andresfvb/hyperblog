@@ -1,4 +1,19 @@
 body{
     text-align: center;
     background: #7777773d;
+    color: #000;
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    width: 70%;
+    padding: 1em;
+    border: 1px solid #000;
+    text-align: left;
+    margin:0 auto;
+    
+}
+
+#container h1 {
+    font-size: 30px;
 }
